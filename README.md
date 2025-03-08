@@ -1,5 +1,5 @@
 
-## To create an image  (choose your own name or not)
+## To create an image  
 docker build -t some .
 
 ## To run a container from the created image 
